@@ -17,9 +17,13 @@
    
    ## 4.Perbedaan WIFI Dan LIFI
    
+   ![image](Logo-jaringan-WiFi.jpg)
+   
    LiFi dan WiFi merupakan dua teknologi nirkabel (tanpa kabel) dua arah yang memiliki kecepatan tinggi.Namun keduanya memiliki perbedaan pada media penghantarnya yaitu berupa gelombang cahaya dan gelombang radio.WiFi merupakan pemancar jaringan internet melalui gelombang radio, namun LiFi menggunakan gelombang cahaya untuk media transmisinya.Teknologi yang dimiliki oleh WiFi memiliki kecepatan yang lebih rendah dibandingkan dengan Light Fidelity karena kecepatan gelombang cahaya lebih cepat 10.000 kali dibandingkan dengan gelombang radio.Namun dibalik itu, apabila ia tidak terdapat cahaya yang optimal maka tidak dapat digunakan dan lebih baik menggunakan WFi dengan gelombang radionya.Selain itu, perbedaan dari keduanya adalah mengenai biaya yang diperlukan untuk menggunakan teknologi tersebut.Instalasi WiFi memerlukan biaya yang lebih rendah dibandingkan dengan Light Fidelity.
    
    ## 5.Keuntungan Dan Keunggulan LIFI
+   
+   ![image](download.jpg)
    
    Keuntungan menggunakan Li-Fi ini adalah memudahkan siapa saja untuk mengakses internet dimana pun bahkan di wilayah terpencil sekalipun yang tidak bisa dijangkau oleh kabel optik. Selain itu Li-Fi juga dapat digunakan mengontrol kondisi lalu lintas dengan cara menempatkan teknologi baru ini ke LED mobil.Fungsi yang sama ternyata juga dapat diterapkan dengan lampu overhead pesawat. Keunggulan lain dari teknologi Li-Fi adalah mampu mengurangi polusi elektromagnetik yang dihasilkan oleh gelombang radio.
    
